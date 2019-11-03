@@ -1,0 +1,305 @@
+@media (min-width: 1200px) and (max-width: 1500px) {
+  .app-shape-02 {
+    right: -28%;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .slider-content-space {
+    padding-top: 192px;
+  }
+  .main-menu ul li {
+    margin: 0 7px;
+  }
+
+  .slider-height {
+    min-height: 740px;
+    background-position: center center;
+  }
+
+  .shape-01 {
+    left: 2%;
+  }
+
+  .shape-02 {
+    bottom: 9%;
+    left: 61%;
+  }
+  .feature-text p {
+    padding: 0 0px;
+    margin: 0;
+  }
+
+  .how-work-img img {
+    max-width: 100%;
+  }
+
+  .how-work-text {
+    padding-top: 50px;
+  }
+
+  .faq-img img {
+    max-width: 100%;
+  }
+
+  .brand-heading {
+    padding-top: 50px;
+  }
+
+  .latest-blog-img img {
+    max-width: 100%;
+  }
+
+  .latest-blogcontent {
+    padding: 0 20px;
+  }
+
+  .inner-blog {
+    padding: 30px 25px;
+  }
+
+  .subscribe-form {
+    padding-left: 0;
+  }
+
+  .subscribe-title h3 {
+    text-align: center;
+    padding-bottom: 34px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .slider-text {
+    text-align: center;
+  }
+  .slider-height {
+    min-height: 659px;
+  }
+
+  .work {
+    background-size: cover;
+  }
+
+  .faq-img img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .shape-01 {
+    top: 12%;
+    left: 2%;
+  }
+  .slider-text p {
+    margin-bottom: 30px;
+  }
+  .slider-text h2 {
+    font-size: 52px;
+  }
+
+  .shape-02 {
+    bottom: 8%;
+    left: 76%;
+  }
+  .feature-text p {
+    padding: 0 0px;
+  }
+  .slider-content-space {
+    padding-top: 115px;
+  }
+
+  .how-work-img img {
+    max-width: 100%;
+  }
+
+  .how-work-text {
+    padding-top: 50px;
+  }
+
+  .pt-mobile {
+    padding-top: 30px;
+  }
+  .price-box {
+    padding: 40px 17px;
+  }
+
+  .screenshot-area {
+    padding-bottom: 0;
+  }
+  .subscribe-title h3 {
+    text-align: center;
+    padding-bottom: 34px;
+  }
+
+  .brand-heading {
+    padding-top: 35px;
+  }
+
+  .latest-blog-img img {
+    max-width: 100%;
+  }
+
+  .latest-blogcontent {
+    padding: 0 20px;
+  }
+
+  .subscribe-area {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  .inner-blog {
+    padding: 24px 20px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .slider-area {
+    background-size: unset;
+  }
+  .mean-container .mean-nav {
+    background: white;
+  }
+  .mean-container .mean-nav ul li a {
+    color: #2896cc;
+  }
+  .shape-01,
+  .shape-02 {
+    display: none;
+  }
+  .slider-content-space {
+    padding-top: 160px;
+  }
+
+  .slider-text h2 {
+    font-size: 30px;
+    text-align: center;
+  }
+  .slider-text p {
+    text-align: center;
+  }
+  .slider-btn {
+    text-align: center;
+  }
+  .slider-btn a {
+    margin-right: 0px;
+    margin-bottom: 20px;
+  }
+
+  .feature-text p {
+    padding: 0 0px;
+    margin: 0;
+  }
+
+  .fact-area {
+    padding-top: 40px;
+    padding-bottom: 0;
+  }
+
+  .faq-img img {
+    margin-left: 0;
+  }
+
+  .subscribe-space {
+    padding: 55px 15px;
+  }
+
+  .subscribe-title h3 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .subscribe-form input {
+    margin-bottom: 30px;
+  }
+  .subscribe-form button {
+    position: initial;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 40px;
+    display: block;
+
+    margin: 0 auto;
+    padding-right: 40px;
+  }
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+  }
+  .available-text {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .subscribe-form {
+    padding-left: 0px;
+  }
+
+  .features-area {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .latest-blog-area {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .faq-wrapper h2 .btn::after {
+    display: none;
+  }
+
+  .screenshot-area {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .test-space {
+    padding-top: 250px;
+  }
+
+  .slider-height {
+    min-height: 740px;
+    background-position: bottom;
+    background-position: center left;
+  }
+
+  .work.slider-height {
+    min-height: 740px;
+    background-position: bottom;
+  }
+  .test-img-item {
+    width: 100px;
+  }
+
+  .test-img-item::before {
+    height: 106px;
+
+    width: 105px;
+  }
+  .test-img-active {
+    max-width: 318px;
+  }
+
+  .single-fact::after {
+    display: none;
+  }
+
+  .how-work-text {
+    padding-top: 50px;
+    margin-bottom: 20px;
+  }
+
+  .how-work-text p {
+    margin-bottom: 20px;
+  }
+
+  .section-title {
+    padding-top: 40px;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 520px) and (max-width: 767px) {
+}
